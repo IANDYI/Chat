@@ -5,6 +5,7 @@ A basic client-server chat application using TCP sockets in C.
 ## Prerequisites
 
 * GCC
+* Make (optional, if using ```make``` for compilation)
 
 ## 📥 Installation
 
