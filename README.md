@@ -1,2 +1,2 @@
 # Chat
-Simple Networked Chat (TCP/UDP)
+Simple Networked Chat (TCP)
